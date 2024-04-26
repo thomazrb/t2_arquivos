@@ -1,0 +1,18 @@
+[
+    {
+        "Produto": "Caixa",
+        "Valor": 10
+    },
+    {
+        "Produto": "Sapato",
+        "Valor": 15.5
+    },
+    {
+        "Produto": "Botão",
+        "Valor": 32
+    },
+    {
+        "Produto": "Sopa",
+        "Valor": 11.2
+    }
+]
